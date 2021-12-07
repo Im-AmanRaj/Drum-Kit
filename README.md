@@ -1,4 +1,4 @@
-Web App - DRUM KIT
+
 
 Drum Kit is a web app made with HTML, CSS and JavaScript. It's function is play sound the of a drum-kit. So, if you like to play drums and you don't 
 have one then this application is for you. You can play drums anywhere and however you like, and you can play this drum kit in two ways : Mouse and Keyboard.
